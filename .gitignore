@@ -1,3 +1,6 @@
 */images/
 */*.ipynb_checkpoints
 */input/
+*/immune_cells_data.csv*
+./ml_day_12/pikachu_dataset/*
+
